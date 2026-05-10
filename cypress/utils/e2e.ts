@@ -1,4 +1,4 @@
-// Generateunique name with timestamp so its really unique
+// Generate unique name with timestamp so its really unique
 export function generateRandomName(prefix: string): string{
     return `${prefix}_${Date.now()}`;
 }
