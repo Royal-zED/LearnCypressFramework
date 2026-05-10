@@ -2,9 +2,10 @@
   "compilerOptions": {
     "target": "ES2020",
     "module": "commonjs",
-    "types": ["cypress"],
+    "types": ["cypress", "node"],
     "esModuleInterop": true,
+    "allowJs": true,
     "strict": false
   },
-  "include": ["cypress/**/*.ts"]
+  "include": ["**/*.ts", "**/*.js"]
 }
