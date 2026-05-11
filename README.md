@@ -1,3 +1,4 @@
+Note- please use **npm install** in terminal/cmd to download the necessary cypress dependencies. Large folders like node_module is not uploaded in this repository.
 # Cypress + TypeScript Framework Evolution Project
 
 This repository is a **Cypress + TypeScript based project** designed to help understand **how test automation projects are structured and how frameworks evolve step by step**.
